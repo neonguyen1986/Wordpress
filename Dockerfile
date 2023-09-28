@@ -11,4 +11,4 @@ RUN pipenv install --ignore-pipfile
 # run entrypoint.sh
 # ENTRYPOINT ["/app/entrypoint.sh"]
 
-EXPOSE 8000
+EXPOSE 8003
