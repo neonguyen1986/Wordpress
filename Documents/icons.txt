@@ -1,0 +1,13 @@
+Để download các bộ icon cho thiết kế
+    icons, vector
+        freepik.com
+    wallpapers
+        stocknap.io
+        pexels.com
+        burst.shopify.com
+Ảnh thumbnail nên thiết kế 1200x628
+Nén ko thay đổi chất lượng ảnh
+    tinypng.com 
+    có thể kết nối API để trực tiếp nén file ảnh trên WP (sau khi kết nối xong, vào Media trong WPđể chỉnh sửa)
+
+
